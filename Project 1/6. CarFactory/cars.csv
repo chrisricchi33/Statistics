@@ -1,0 +1,1001 @@
+CarType,Year,Color,Miles
+Van,1975,Black,97382
+Truck,2023,Pink,162735
+Sedan,1982,Black,86154
+Sedan,2019,Black,90497
+Sedan,2016,Pink,230
+Sports Cars,1986,Green,228545
+Sports Cars,1972,Green,238135
+Sedan,1996,Red,96557
+Van,2012,Silver,247685
+Truck,2023,Red,57365
+Car,1991,Silver,54911
+Sedan,1962,White,149663
+Sedan,1980,Pink,164102
+Truck,2015,Green,205243
+Van,2000,Silver,201699
+Sports Cars,1988,Red,180741
+Van,2012,White,39258
+Sedan,2004,Red,112968
+Car,1990,Blue,219656
+Sedan,2004,White,38423
+Sports Cars,2000,Green,112598
+Truck,1972,Black,82903
+Truck,1977,Green,227819
+Sports Cars,1962,Pink,212427
+Sedan,1993,Pink,192925
+Sports Cars,1996,Black,241542
+Car,1975,Pink,236137
+Sedan,1980,Pink,50511
+Sedan,2011,Blue,95818
+Truck,1966,Green,60466
+Sports Cars,2014,White,142048
+Sedan,1978,Red,204847
+Sedan,1968,Pink,145258
+Sedan,2010,Blue,222763
+Truck,1984,Silver,50434
+Sedan,1974,Silver,173127
+Van,2015,Black,227798
+Car,2006,Red,169213
+Car,1981,Red,48554
+Van,1960,Blue,110943
+Sports Cars,1971,Green,179600
+Sedan,2000,Red,94363
+Sports Cars,1997,Silver,166699
+Sports Cars,2012,Blue,216665
+Van,2012,Silver,128214
+Sedan,2021,Silver,57599
+Car,1994,Black,131373
+Sedan,1960,Pink,101975
+Sedan,2008,Red,158110
+Sedan,1962,Blue,40428
+Van,1995,Pink,34227
+Truck,2018,White,127792
+Sedan,2001,White,246
+Sedan,1972,Pink,142909
+Sedan,1987,Red,158684
+Sports Cars,1967,Black,101158
+Car,1989,Black,73221
+Car,1996,Silver,56768
+Van,1994,Green,20396
+Truck,1993,White,45497
+Truck,2010,Pink,16447
+Sedan,1965,Black,161895
+Sports Cars,2011,Red,68000
+Sedan,1977,White,16416
+Car,2014,Pink,67218
+Sedan,2000,Green,215403
+Sedan,1989,Silver,77379
+Sedan,2000,Green,220518
+Truck,1965,Silver,1799
+Sedan,2018,Pink,161551
+Van,1987,Red,223819
+Truck,1988,Green,124575
+Sedan,1975,Silver,88280
+Sedan,1964,Blue,204173
+Truck,1984,Silver,87773
+Sports Cars,2019,Blue,196633
+Van,1961,Green,209669
+Sedan,1987,White,219940
+Car,1972,Black,210918
+Sedan,2019,Red,208339
+Sedan,1991,Pink,101354
+Car,2002,White,86540
+Truck,1977,Silver,154914
+Sedan,1978,Black,152693
+Sedan,1972,Silver,99437
+Car,1983,White,52826
+Sports Cars,2012,Red,194325
+Truck,2013,Red,116284
+Sedan,1978,White,161050
+Sports Cars,2020,Pink,137654
+Sports Cars,1974,Black,130354
+Sedan,1968,Silver,188392
+Sports Cars,1965,Silver,63691
+Sports Cars,2001,Pink,9188
+Car,2009,Pink,2339
+Truck,2000,Silver,47747
+Van,1988,Black,171591
+Sports Cars,2017,Silver,24567
+Sedan,1992,Black,15010
+Truck,1969,Red,17935
+Sedan,1993,Red,72026
+Sports Cars,2015,Red,69000
+Sports Cars,1965,Blue,21783
+Sedan,1991,Red,190984
+Van,1995,Black,172929
+Sedan,1984,Red,100019
+Sedan,2015,White,137704
+Sports Cars,2014,Green,182814
+Sports Cars,2021,Silver,4242
+Sedan,1962,Red,41224
+Van,1983,White,230348
+Sedan,1968,Silver,208836
+Sports Cars,1987,White,24708
+Sedan,1989,Pink,91043
+Sedan,1981,Black,79425
+Sedan,2010,White,35134
+Sedan,2006,Red,177795
+Van,1993,Black,187907
+Sedan,2017,Black,122520
+Sedan,1979,Silver,209585
+Sedan,2006,Silver,86651
+Sedan,2016,Black,65704
+Sedan,2012,Red,236006
+Sports Cars,2001,Red,62901
+Sports Cars,1991,Silver,20330
+Van,2005,Red,209052
+Sedan,2000,Pink,241877
+Sedan,1972,Green,141177
+Car,2019,Black,195907
+Van,1969,White,139679
+Van,1991,White,96294
+Sedan,2008,Green,124058
+Sports Cars,2011,Blue,53736
+Car,1970,Red,92895
+Sedan,1972,Pink,153133
+Sedan,1976,Black,224886
+Sedan,1984,White,97063
+Sedan,1977,Red,97355
+Sedan,1971,Silver,10442
+Sports Cars,2012,Green,86242
+Van,1998,Silver,166482
+Van,1967,Blue,175574
+Sedan,1998,Red,201353
+Sedan,1987,Red,28101
+Car,1995,Silver,69633
+Sports Cars,2007,Pink,98726
+Van,1998,Red,190384
+Sedan,1964,Red,57957
+Sedan,2016,Silver,128296
+Sedan,1960,White,220525
+Truck,1966,Red,109100
+Sedan,2007,Silver,28423
+Sedan,2005,Green,135284
+Sedan,1998,White,58175
+Sports Cars,1982,Silver,210050
+Truck,1998,White,198074
+Sedan,1974,Blue,36347
+Sedan,2000,Blue,2779
+Sedan,1975,Black,26089
+Sedan,1984,Black,208271
+Sedan,1982,White,54247
+Car,1991,Green,169204
+Sedan,1978,Black,219516
+Van,1996,Silver,212606
+Truck,1994,White,72896
+Sedan,1987,White,235677
+Truck,1993,Pink,143352
+Car,1988,Green,205204
+Sedan,2016,Blue,98087
+Sedan,1974,Blue,53371
+Van,1961,Black,89830
+Sedan,2008,Black,58544
+Sedan,2002,Green,241079
+Car,1976,Blue,138539
+Sports Cars,1964,Blue,141638
+Sedan,1992,White,202774
+Sedan,2002,Red,164148
+Sedan,1990,Green,28272
+Car,1996,Green,101525
+Sedan,1974,Black,63382
+Sports Cars,1971,Silver,17224
+Van,1990,Red,40765
+Truck,1997,Silver,95663
+Sedan,2011,Green,123271
+Sedan,2018,Pink,117505
+Sedan,1964,Silver,46630
+Sports Cars,1988,White,189196
+Sedan,1961,Blue,50473
+Car,1999,Red,211539
+Sports Cars,2003,Blue,75178
+Sedan,1968,Red,61320
+Sedan,2004,Black,8142
+Truck,1994,Black,128625
+Van,1966,White,210024
+Sports Cars,1996,Green,186407
+Van,2006,Pink,134049
+Sedan,2018,Green,36298
+Sedan,2015,Pink,121286
+Sports Cars,2009,Black,227742
+Van,1969,Black,95123
+Van,2010,Green,5006
+Sedan,1984,Green,79310
+Car,1998,Black,193240
+Van,1977,Silver,22125
+Sedan,2018,Green,41065
+Sedan,1980,Red,219770
+Sedan,2020,White,33581
+Sedan,2022,Red,180954
+Sedan,2023,Red,163867
+Sports Cars,2021,Green,10308
+Car,1968,Silver,150103
+Sedan,1981,Black,201644
+Sedan,2020,Pink,149616
+Sedan,2007,Silver,67284
+Sports Cars,1973,Blue,197469
+Sports Cars,2010,Green,70859
+Truck,1994,White,248147
+Van,1974,Pink,24055
+Van,1996,Red,199070
+Truck,1967,White,142164
+Car,1969,Green,179418
+Truck,1973,White,53968
+Sedan,1993,Red,61519
+Van,2000,Silver,197293
+Van,2022,Black,136273
+Car,2001,Green,24859
+Sedan,2022,Black,26134
+Van,2005,Silver,1833
+Truck,1996,Black,55052
+Truck,2007,White,148099
+Car,1983,White,199824
+Truck,1985,Pink,172556
+Car,1972,Green,101644
+Sedan,1998,White,18665
+Sedan,1982,Blue,154859
+Van,1990,Blue,200376
+Sedan,1992,Silver,243764
+Van,1990,Black,214602
+Sedan,2009,White,130427
+Sedan,2018,Green,229420
+Van,1974,Blue,103522
+Car,2000,Green,141085
+Sedan,2017,Black,66941
+Sports Cars,1994,Pink,19702
+Sedan,1979,White,101113
+Sedan,2018,Silver,156905
+Car,1990,Green,77156
+Van,1990,Silver,9521
+Sports Cars,2015,Green,218949
+Sedan,1993,Black,176257
+Van,1996,Blue,64401
+Car,2012,Black,23447
+Sedan,2020,Green,144164
+Sedan,2015,White,38651
+Truck,2004,Black,41525
+Sedan,2017,Green,125919
+Sedan,2016,Red,121232
+Truck,2006,Red,61594
+Sports Cars,1992,White,73313
+Sedan,2020,Red,199897
+Car,1972,Green,62798
+Sedan,1976,Pink,144365
+Sedan,2006,Silver,178041
+Van,1999,Silver,196686
+Car,1961,Silver,76196
+Van,1967,Red,240066
+Sedan,2006,Green,12185
+Sports Cars,1986,Silver,167197
+Sedan,2005,Blue,15578
+Sedan,1962,Black,124364
+Sedan,1960,White,56203
+Sedan,1989,Silver,208237
+Sedan,1991,Red,198374
+Sedan,1989,Silver,39887
+Car,2000,Green,112466
+Sedan,1961,Black,114103
+Sports Cars,1961,White,16596
+Sedan,2011,Green,88888
+Van,1983,Green,108092
+Sedan,1966,Black,56384
+Sports Cars,1983,Pink,59734
+Car,1976,Blue,151160
+Truck,1976,Silver,238537
+Sports Cars,2023,White,4518
+Truck,1989,Pink,153114
+Car,2018,Blue,19104
+Sedan,2017,Pink,203277
+Sedan,2002,Blue,98381
+Car,1966,White,184674
+Sedan,2010,Pink,139523
+Sedan,2010,Pink,133639
+Van,2014,White,47838
+Sedan,1969,Red,148181
+Truck,2012,Blue,2603
+Car,1970,Red,215486
+Sedan,1963,Green,170850
+Sedan,1991,Blue,206928
+Car,1992,Green,177749
+Van,1995,Pink,89310
+Sedan,1975,Green,18751
+Truck,1982,White,90456
+Van,2006,Red,100353
+Sedan,1967,Blue,82266
+Sports Cars,1981,Black,36198
+Sports Cars,1988,Blue,9399
+Sedan,1968,Red,197426
+Sedan,2019,Black,203686
+Sedan,1976,Silver,163071
+Sedan,1971,Pink,222162
+Car,1993,Red,10365
+Sedan,2006,White,92052
+Sedan,2020,Green,90378
+Truck,1997,White,23558
+Van,1966,Blue,37988
+Sedan,2011,Black,50175
+Van,2015,Red,240479
+Van,1960,White,67262
+Sedan,2014,Black,25532
+Van,1983,Red,150340
+Sedan,1979,White,204525
+Sports Cars,1962,Silver,204796
+Truck,1971,Black,60567
+Truck,2020,Red,130407
+Truck,1979,Red,17907
+Sedan,1987,Silver,126997
+Car,2014,Blue,128500
+Car,1987,Red,157084
+Car,2010,Black,93754
+Sedan,1972,Red,15976
+Sedan,1975,White,103854
+Sedan,1995,Blue,198293
+Sedan,1988,Blue,5006
+Sedan,1970,Pink,215309
+Sedan,1995,Red,241608
+Sedan,1982,Silver,99209
+Sedan,1994,Blue,100484
+Car,2002,Silver,149911
+Sedan,1966,Green,135030
+Sedan,1970,White,209077
+Truck,2013,Black,4890
+Sports Cars,1994,Green,224597
+Sports Cars,2011,White,168250
+Van,1969,Black,249627
+Sedan,1964,White,95728
+Sports Cars,2021,Pink,42755
+Sedan,1988,White,221758
+Sports Cars,1997,White,146382
+Car,2007,Green,217590
+Sedan,1989,Blue,25132
+Truck,2018,Black,51553
+Sedan,1983,Red,175502
+Van,2016,Red,119110
+Truck,1983,Black,4699
+Sedan,2014,Black,228277
+Sedan,2020,Red,8558
+Car,2001,Green,53930
+Van,1991,Blue,117104
+Sedan,1965,Blue,55379
+Truck,1960,Silver,15665
+Car,2016,Red,26339
+Sedan,1976,Black,226655
+Sports Cars,1973,Silver,62636
+Sedan,1995,Pink,166749
+Sports Cars,2006,Blue,43187
+Car,1984,Red,76899
+Sports Cars,2010,Black,216094
+Sedan,1963,Black,146484
+Truck,1994,Red,207221
+Sedan,1972,Black,186320
+Sports Cars,1991,Red,81426
+Truck,1995,Red,76230
+Car,1990,Green,208461
+Sedan,1960,Blue,51627
+Car,2021,Black,39388
+Sedan,1961,White,35539
+Sedan,2010,Red,5125
+Sedan,2008,Red,34965
+Van,2011,Red,149741
+Car,1963,Pink,105776
+Sedan,1964,Green,206775
+Truck,1962,Green,23901
+Truck,1973,Red,68769
+Truck,2017,Silver,2668
+Sports Cars,1979,White,241360
+Sedan,1985,White,218823
+Sedan,2007,Black,201401
+Sports Cars,1960,Silver,223768
+Car,2018,Black,232730
+Sedan,1981,Blue,168785
+Sedan,1980,Red,172600
+Sedan,1974,Silver,172762
+Truck,2020,White,149413
+Sedan,2011,Blue,107676
+Sedan,1985,Red,34783
+Sports Cars,1993,White,99224
+Sports Cars,1967,White,41009
+Sedan,1960,Blue,91650
+Truck,1987,Black,28631
+Sports Cars,1975,White,177812
+Truck,1980,Silver,244259
+Truck,2008,Blue,203047
+Sports Cars,1974,Pink,212471
+Van,2008,Red,92781
+Truck,2010,Silver,194635
+Sedan,2013,White,72976
+Sedan,1996,Red,238412
+Van,1986,Silver,98773
+Van,2010,Green,72920
+Sports Cars,2005,Green,130811
+Truck,2005,Blue,69413
+Sedan,1992,Red,112371
+Car,2001,Black,12084
+Van,1962,Blue,158775
+Sedan,1971,White,106338
+Sports Cars,1989,Black,70933
+Van,2014,Pink,230452
+Sedan,1968,White,193542
+Car,1991,Black,155912
+Van,2020,Green,159315
+Sports Cars,1984,Silver,179975
+Van,1990,Black,7237
+Sedan,2021,Red,190047
+Sedan,1994,Silver,61534
+Sedan,2004,Blue,106982
+Truck,1962,Green,37865
+Car,1966,Pink,192799
+Sedan,1999,Green,156005
+Truck,2001,Red,37185
+Sedan,1968,Black,39817
+Sedan,1982,Black,89377
+Sports Cars,2002,White,212747
+Van,1981,Blue,35078
+Car,1985,Silver,79789
+Sedan,1971,Pink,94294
+Truck,2007,Black,114310
+Sedan,2000,Blue,70593
+Sedan,1995,Green,142239
+Van,1986,Black,213039
+Van,2006,Silver,178730
+Sedan,2010,Pink,11463
+Van,2006,Silver,130864
+Car,1991,Silver,200301
+Truck,2007,Green,113466
+Van,1964,Red,78275
+Van,1997,Silver,133976
+Van,1980,Pink,52618
+Sports Cars,1998,Silver,193813
+Car,2000,Black,249575
+Sports Cars,1997,White,150936
+Sedan,2004,Blue,119851
+Sedan,2023,Green,80311
+Sedan,1988,Red,105017
+Sports Cars,1963,Silver,19284
+Sports Cars,2014,Silver,153347
+Van,1969,Red,8711
+Truck,1988,White,100161
+Car,1988,Silver,197735
+Sedan,2009,Black,222337
+Truck,1973,Silver,215607
+Car,1967,Black,77479
+Sedan,2000,Red,110610
+Sedan,2015,Blue,173214
+Sports Cars,2013,Blue,102327
+Car,2005,Silver,187703
+Car,1974,Black,200081
+Sedan,2000,Red,56895
+Sedan,2003,Pink,189436
+Sports Cars,1963,Green,217257
+Sedan,1964,Black,249481
+Sports Cars,1970,Black,118400
+Sedan,2002,Black,101214
+Sports Cars,2022,Black,52838
+Van,1972,Black,64820
+Sports Cars,1988,Green,245994
+Truck,1969,Pink,7250
+Van,2018,Black,110919
+Sedan,1978,Red,54860
+Van,1961,Pink,121288
+Truck,2000,Red,187164
+Truck,2007,White,9249
+Car,2020,White,71073
+Sports Cars,2018,Green,198719
+Sedan,2013,Green,26711
+Sedan,1964,Green,85505
+Van,1975,Green,84164
+Sedan,1994,Black,195996
+Van,1980,Pink,165760
+Sedan,1979,Pink,88257
+Sports Cars,1987,White,147481
+Sedan,2006,Pink,14850
+Sedan,1961,Black,233208
+Sports Cars,1993,Green,126015
+Sports Cars,2005,Pink,179316
+Car,2021,Blue,108711
+Sedan,1985,Black,15600
+Truck,2017,Black,84907
+Sedan,1995,Silver,151311
+Sedan,2007,Green,115040
+Sedan,1983,Black,97713
+Sports Cars,1991,Green,188448
+Van,1973,Green,210746
+Sedan,1992,Blue,205917
+Truck,1968,Green,74417
+Sedan,1986,Red,15947
+Sedan,1973,Green,216687
+Car,1974,Silver,212808
+Sedan,2004,Silver,50028
+Sports Cars,2002,Blue,4509
+Sedan,1987,Green,135646
+Car,2005,White,97135
+Truck,2002,Black,103853
+Truck,1986,Blue,72076
+Car,1982,Blue,181418
+Van,1984,Black,5467
+Car,1993,Blue,115679
+Sports Cars,1963,Black,215053
+Car,1972,Blue,2124
+Sedan,1981,Black,219533
+Truck,2009,Silver,83686
+Truck,2012,Silver,246729
+Sports Cars,2014,Black,76768
+Truck,1993,White,203680
+Truck,1980,Pink,225889
+Sedan,2015,Red,122639
+Sedan,2001,Pink,218157
+Sports Cars,2001,White,134082
+Sedan,1993,Blue,175118
+Sedan,2000,White,77781
+Car,1985,Blue,187332
+Sedan,2022,Green,160013
+Truck,1987,Silver,5119
+Sedan,2019,Green,6840
+Sedan,1974,Pink,169448
+Sedan,2000,Red,99171
+Sedan,1987,Pink,230097
+Sports Cars,2018,Green,225563
+Truck,1967,Green,222404
+Van,1994,Pink,112253
+Car,1997,Blue,120881
+Sedan,1975,Pink,209915
+Sedan,2005,White,3646
+Truck,1986,Silver,89925
+Sedan,2007,Green,20036
+Car,2004,Blue,184667
+Sedan,1997,White,68446
+Sedan,1981,Black,71955
+Sports Cars,2013,Red,84360
+Car,1968,White,172729
+Sports Cars,1983,Black,149969
+Sports Cars,1991,Blue,34463
+Sedan,1965,Black,37188
+Sports Cars,1991,White,25765
+Truck,1969,Pink,109890
+Car,2009,Red,149324
+Truck,2013,Silver,75671
+Van,2006,White,219554
+Van,2012,Pink,23309
+Sedan,1970,Pink,215014
+Truck,2010,Blue,63980
+Sedan,1994,Black,243456
+Sedan,2017,White,209575
+Truck,1981,Blue,201782
+Sedan,1972,Red,203326
+Car,1973,Blue,102767
+Car,1989,White,221954
+Truck,1977,Silver,93868
+Truck,1989,Blue,23890
+Van,1989,Pink,188084
+Car,1989,Green,170719
+Sports Cars,2004,Red,155332
+Sedan,1988,Blue,106636
+Truck,1975,Red,29086
+Sedan,2021,Pink,112648
+Van,1975,Red,225510
+Sedan,1968,Pink,182429
+Car,2009,Blue,110774
+Car,1992,Green,145432
+Van,1974,Pink,203092
+Sedan,1983,Pink,213161
+Car,1985,Blue,141329
+Van,2021,Silver,41805
+Sports Cars,1998,Silver,40346
+Sedan,2017,Blue,166493
+Sedan,2013,Blue,70762
+Sedan,1974,Pink,107468
+Sedan,2013,Blue,176021
+Car,1998,Blue,87311
+Sedan,1991,Pink,126470
+Van,2016,Black,22035
+Sports Cars,1992,Red,82909
+Sedan,1985,Pink,127280
+Sedan,1983,Green,229196
+Sports Cars,1977,Silver,224778
+Sedan,1981,White,220472
+Sports Cars,2019,Pink,101049
+Car,2004,Red,157713
+Sports Cars,1991,Red,184189
+Sedan,1980,Blue,127162
+Sedan,2015,Red,128199
+Sedan,1996,Green,11204
+Truck,1981,Blue,101759
+Van,2001,Pink,116679
+Truck,2018,Silver,4673
+Truck,2005,Black,217581
+Car,2001,Silver,228750
+Sedan,1977,Green,133722
+Sedan,2006,Silver,43109
+Sports Cars,2000,Blue,96105
+Sports Cars,2004,Blue,64286
+Sedan,1978,Blue,234234
+Sports Cars,1974,Silver,187391
+Sports Cars,2005,Blue,146672
+Sedan,1971,Black,249295
+Sedan,2005,Pink,68369
+Sports Cars,1988,Black,230005
+Sedan,1991,White,242387
+Sedan,1995,Blue,52663
+Van,2012,White,225760
+Sedan,2009,Blue,40658
+Sedan,2007,Black,140210
+Car,1970,Green,217253
+Truck,1994,Red,24487
+Car,1971,White,36145
+Van,2022,Red,223070
+Sedan,1965,Pink,16606
+Van,2018,Red,139497
+Van,1960,Pink,212437
+Sedan,1997,Red,134263
+Sedan,1971,Pink,49052
+Sedan,1962,Red,202074
+Sports Cars,2017,Pink,142830
+Truck,2005,Silver,248348
+Sedan,2008,Green,230877
+Sedan,2003,White,120225
+Sedan,1978,Black,234066
+Sedan,1990,Red,70115
+Sedan,1979,Pink,135902
+Sedan,1966,Red,152625
+Sedan,1961,Black,81107
+Sedan,1963,Black,180611
+Truck,1966,White,174164
+Sedan,2016,Silver,133395
+Car,2017,White,228809
+Van,1984,Silver,52307
+Sedan,2011,Blue,76136
+Sedan,1991,Green,234930
+Sedan,1974,Green,7085
+Sedan,1997,White,57359
+Sedan,1960,Pink,60501
+Sedan,2010,Black,34129
+Car,1970,Red,150322
+Sports Cars,1960,Pink,190553
+Sedan,2018,Black,183269
+Car,2023,Pink,124061
+Sedan,2022,Silver,130458
+Sports Cars,2013,Black,12253
+Sports Cars,1984,Blue,105683
+Sedan,1968,Black,114937
+Sedan,1989,Red,138884
+Sports Cars,1998,White,139864
+Sports Cars,2002,Red,163516
+Van,1982,Pink,10325
+Truck,1968,Blue,30086
+Truck,1973,Red,213855
+Truck,1962,Black,210434
+Sedan,1976,Silver,32771
+Car,1972,Pink,140301
+Sports Cars,1975,Green,135161
+Sports Cars,2013,Green,200690
+Sports Cars,2020,Red,54228
+Sedan,1969,Pink,197886
+Sedan,2003,Blue,99967
+Car,1973,White,115912
+Sedan,1993,Green,47534
+Van,2006,White,66907
+Truck,1987,Green,136229
+Sedan,1980,Silver,92123
+Sedan,1965,Blue,1561
+Sports Cars,1971,Pink,70066
+Sedan,2004,Pink,29999
+Car,2007,Silver,3606
+Car,2002,Green,47803
+Sedan,1972,Blue,125461
+Truck,2010,Blue,16041
+Sedan,1971,Green,106331
+Car,2017,White,225597
+Truck,1989,Green,153704
+Sports Cars,1998,Red,35724
+Sports Cars,2006,Black,247740
+Sedan,2016,Red,26066
+Sedan,2010,Black,127417
+Sedan,1989,Green,9954
+Car,2016,Pink,115741
+Sedan,1990,Blue,2483
+Sedan,1996,White,61516
+Sedan,2010,Black,187083
+Truck,2001,Blue,74874
+Sedan,1985,White,239299
+Truck,1993,Silver,220963
+Sedan,1969,Green,49884
+Sports Cars,1975,Blue,187557
+Truck,2020,Green,94652
+Sedan,2000,Red,73786
+Sedan,2003,Red,240255
+Sedan,1990,Black,174521
+Car,1977,White,196821
+Van,1961,White,115361
+Van,2006,Silver,249983
+Van,1977,Green,69519
+Car,1981,Pink,213225
+Truck,1987,Silver,4358
+Sedan,2008,Pink,240751
+Truck,1988,Blue,123134
+Truck,1978,Red,207132
+Car,2004,Blue,137321
+Van,1997,Green,106709
+Sedan,2014,Red,12935
+Van,2021,White,78834
+Van,1991,Black,21043
+Sedan,1995,White,149666
+Sedan,1990,Black,53789
+Sedan,1974,Black,247320
+Sedan,1981,Pink,159593
+Sedan,2017,Pink,57578
+Van,1988,Blue,234281
+Van,2017,Blue,10584
+Truck,1989,Red,67552
+Sedan,1966,White,91858
+Sedan,1994,Pink,14160
+Van,1983,Pink,151147
+Sports Cars,2011,Blue,2860
+Sports Cars,1973,Pink,90675
+Sedan,1983,Blue,76573
+Van,1983,Green,191929
+Sports Cars,2022,Green,205795
+Sports Cars,1961,Silver,212535
+Sedan,1970,Black,40710
+Sedan,1989,White,171268
+Sedan,1987,White,55071
+Sports Cars,2022,Red,193952
+Sedan,2013,Red,56154
+Car,2008,Blue,154121
+Sedan,2002,Black,182341
+Car,1986,Pink,197412
+Van,2002,Red,163332
+Sedan,1979,Black,221950
+Sedan,2018,White,164810
+Sports Cars,2003,Blue,13949
+Sedan,1999,Blue,24607
+Sedan,1972,Pink,4730
+Car,1973,Silver,96051
+Truck,1995,Pink,154685
+Sedan,1993,Green,91354
+Sedan,2018,Blue,69037
+Sports Cars,2012,Blue,201130
+Sedan,1972,Blue,102361
+Sedan,2003,Pink,210190
+Sedan,1994,Pink,91796
+Truck,1968,Red,70928
+Van,1968,Blue,74586
+Sedan,2012,Red,15261
+Truck,1972,Blue,38728
+Sedan,1966,Silver,128088
+Sedan,1993,Green,118838
+Sedan,1962,Pink,25340
+Truck,2007,Pink,203829
+Van,1970,White,147905
+Sports Cars,1988,Black,182161
+Sedan,1983,Silver,87283
+Sedan,2013,Black,149165
+Truck,2010,Black,242520
+Sedan,1965,Pink,41491
+Car,2003,Blue,122364
+Car,1981,Silver,52900
+Sedan,2003,White,242172
+Van,2020,Silver,948
+Van,2021,Black,132572
+Car,1992,White,49223
+Sedan,2005,Green,62185
+Car,1972,Blue,109139
+Sedan,1963,Pink,220893
+Sports Cars,2018,Red,43843
+Van,1986,Blue,183572
+Truck,1989,Black,89044
+Truck,1988,White,220953
+Sedan,1999,Red,117520
+Sedan,1961,Blue,168143
+Car,1960,White,238843
+Car,2008,Black,173965
+Car,1992,Pink,65624
+Sedan,1970,Green,34473
+Sports Cars,1980,Silver,201485
+Sedan,2005,White,101859
+Sedan,1977,Silver,27409
+Sedan,1990,Silver,240561
+Van,1988,Red,128187
+Sedan,2010,Green,237382
+Sedan,1991,Black,249770
+Sedan,1998,Red,165156
+Sports Cars,2017,White,73692
+Car,2014,White,216294
+Sedan,2017,Red,29268
+Sedan,1976,White,6943
+Truck,2018,Red,12038
+Sports Cars,1971,Black,180311
+Sedan,2014,White,33669
+Van,1971,Black,135288
+Van,2005,Black,20912
+Sedan,1964,Green,132233
+Sedan,1974,Blue,53155
+Van,1991,Red,214300
+Truck,1971,Pink,122029
+Sedan,2015,Red,102280
+Van,1974,Blue,74090
+Truck,1960,White,125310
+Sedan,2005,Blue,245637
+Car,1977,Blue,206045
+Truck,2015,Green,120670
+Sports Cars,2002,Red,38125
+Sports Cars,1977,White,15877
+Van,1971,Blue,39105
+Car,1988,Green,168304
+Sedan,1991,Black,45656
+Sedan,1976,Silver,115854
+Van,1989,White,74427
+Sedan,1999,Red,209589
+Van,1965,Red,140894
+Sedan,1966,White,200393
+Sedan,1991,Green,179725
+Sports Cars,1969,Black,198727
+Van,1979,Red,39650
+Sedan,1985,Blue,121362
+Sports Cars,1991,Silver,244880
+Sports Cars,1975,Blue,199659
+Sedan,2022,Black,241818
+Sedan,1988,Green,24415
+Sedan,2008,Pink,226100
+Sedan,1967,Silver,8643
+Sedan,2014,White,23136
+Sedan,2003,Black,20827
+Sedan,1994,Green,40130
+Sedan,2002,Green,98507
+Car,2019,Silver,8454
+Truck,1995,Green,56440
+Car,1970,Blue,168167
+Sedan,1974,Blue,23065
+Sports Cars,1995,Green,71603
+Sedan,1977,Silver,162267
+Car,2009,Black,132275
+Van,2018,Blue,126435
+Van,1986,Blue,47786
+Sedan,2017,Pink,91154
+Sedan,1962,Green,129592
+Sports Cars,1989,Green,54657
+Van,2007,Green,72501
+Sports Cars,1976,Blue,90187
+Car,1969,Red,180161
+Sedan,1991,Silver,116635
+Car,2014,Black,11013
+Sedan,1999,Blue,107143
+Sports Cars,2021,White,91668
+Sedan,1962,Blue,69070
+Sedan,1977,Silver,52002
+Sports Cars,1999,White,16979
+Van,1989,Pink,115684
+Truck,1974,Blue,93883
+Car,1972,Pink,184585
+Sedan,2005,Pink,50152
+Sports Cars,2019,Pink,150352
+Sports Cars,2011,Red,108895
+Car,2015,White,193704
+Van,1969,Black,125237
+Sports Cars,1976,Black,57489
+Sedan,1981,Blue,123481
+Sedan,2001,Silver,212683
+Truck,1962,Green,53393
+Car,1999,White,194425
+Sedan,2023,Blue,29986
+Truck,1971,Silver,152221
+Sedan,2017,White,161443
+Sedan,2021,White,36390
+Sedan,1998,Pink,25602
+Van,1975,Red,193468
+Sedan,1975,White,180614
+Van,1980,White,176655
+Van,1964,Silver,28818
+Sedan,1979,White,208277
+Sedan,1978,Red,99040
+Truck,1980,Silver,113479
+Sedan,1988,Blue,179253
+Car,1994,Silver,67922
+Sedan,1982,Red,246885
+Sedan,2009,Red,181394
+Van,1992,Pink,197647
+Van,2000,White,213177
+Truck,1979,Black,180139
+Truck,1976,Green,24492
+Truck,1988,Black,214545
+Sedan,2005,Green,36404
+Sedan,1982,Silver,152895
+Van,1972,Pink,146766
+Car,1964,Pink,99992
+Sedan,1986,Red,221391
+Sedan,2012,Green,144524
+Sedan,2021,Black,28316
+Van,1984,Pink,247310
+Car,1964,Green,76369
+Sedan,2016,White,66486
+Sedan,1982,White,100392
+Truck,1992,Silver,23081
+Van,1994,Red,164154
+Sedan,1963,Black,45161
+Car,2007,Blue,93394
+Sedan,2006,Black,179599
+Sedan,1996,Red,46509
+Sedan,2014,Red,68029
+Truck,1966,Blue,148992
+Sedan,2000,Blue,147043
+Sedan,1998,Green,196817
+Sports Cars,2001,Silver,142357
+Car,1979,Black,144590
+Sedan,1977,Silver,206447
+Sedan,2006,Red,238536
+Sports Cars,1980,Pink,219247
+Sports Cars,2014,Black,68026
+Truck,1966,Silver,116989
+Truck,1982,Red,200258
+Truck,1984,Red,54461
+Car,1992,Black,30914
+Sedan,1968,Black,105117
+Sports Cars,1966,Blue,173135
+Sedan,1968,Pink,72034
+Sports Cars,1996,Red,13088
+Truck,2023,Blue,77212
+Car,1965,Silver,44231
+Sedan,1976,White,246742
+Car,1961,Red,171254
+Sedan,2002,Black,46887
+Sedan,2008,Black,204823
+Sedan,1983,Silver,107352
+Truck,1972,Red,161970
+Car,1966,Blue,240762
+Sedan,1992,Pink,103572
+Sedan,1983,Green,177254
+Sports Cars,1979,Green,231614
+Sedan,1974,Silver,104463
+Truck,1982,Blue,114675
+Sports Cars,2016,White,244508
+Van,2014,White,146665
+Sedan,2001,Green,40697
+Sports Cars,1989,Silver,183379
+Car,2016,Silver,39800
+Sedan,1995,Silver,165039
+Sedan,1960,Silver,190183
+Sports Cars,1972,Black,107892
+Sedan,2002,White,57757
+Van,1973,Pink,56378
+Sports Cars,2011,Black,130059
+Truck,1998,Green,31079
+Sedan,2022,Blue,160669
+Van,1980,White,235818
+Sedan,1971,Silver,70872
+Sports Cars,2017,Silver,39765
+Van,1983,Pink,41033
+Sedan,1961,Blue,168040
+Sedan,1965,Red,237486
+Van,2006,White,145557
+Sedan,1993,Green,143443
+Sedan,2003,Pink,193949
+Van,1961,Silver,36926
+Truck,1992,Pink,179475
+Sedan,1993,White,138996
+Sports Cars,2021,Red,196250
+Car,1995,White,198676
+Car,2007,White,213800
+Car,1965,Green,159568
+Sports Cars,2012,Black,226717
+Truck,2013,Blue,140949
+Truck,1988,Blue,66532
+Truck,1975,Green,113370
+Car,2023,Pink,155692
+Truck,2020,Silver,205555
+Van,2013,Blue,215235
+Van,2004,Red,15099
+Truck,2016,Black,32739
+Van,1975,Blue,244761
+Sedan,1964,White,77856
+Van,1977,Red,194012
+Sports Cars,1975,Blue,179445
+Truck,2015,Black,104326
+Sedan,2006,Pink,82896
+Truck,2023,Pink,95268
+Van,1988,White,146392
+Sedan,1989,Pink,111765
+Car,1990,Black,213674
+Sedan,2004,White,182715
+Sports Cars,2007,Pink,127371
+Car,1997,Pink,168649
+Sedan,1994,Red,228341
+Car,2016,Black,236262
